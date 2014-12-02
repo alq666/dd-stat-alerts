@@ -43,8 +43,7 @@
                                         ; you can be sure that the node require attention
                                         ; either by automation or engaging human
                                         ;
-                                        ; i have not measured how effective these settings are
-                                        ; the hit rate is: 90.9% and 99.3%
+                                        ; the hit rate is between 90.9% and 99.3%
 
 ;; Helpers
 
